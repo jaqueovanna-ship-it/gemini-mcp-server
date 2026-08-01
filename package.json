@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Servidor MCP que expõe a geração de imagens do Gemini como ferramenta para o Claude",
   "type": "module",
-  "main": "server.js",
+  "main": "servidor.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node servidor.js"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.30.0",
